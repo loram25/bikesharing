@@ -25,6 +25,7 @@ Link to Tableau
 https://public.tableau.com/profile/laura8867#!/vizhome/Bikesharing-McDonaldsLocations/Dashboard1?publish=yes
 Summary
 
-
+HEre is the link to the regular module work for chapter 14 citibike ride sharing program.
+https://public.tableau.com/profile/laura8867#!/vizhome/Citbikesharingprogram/NYCCitiBikeDashboard?publish=yes
 
 
